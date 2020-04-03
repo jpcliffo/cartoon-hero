@@ -12,6 +12,9 @@ header{
 	padding-bottom: 30px;
 }
 
+/*header styles*/
+/*this is how you write a comment*/
+
 h1,h2{
 	font-family: 'Spicy Rice', cursive;
 	color: #ff39b7;
@@ -35,6 +38,8 @@ main{
 }
 
 main img{
+	margin: auto;
+	display: block;
 	width: 550px;
 	max-width: 100%;
 }
